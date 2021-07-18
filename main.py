@@ -11,7 +11,7 @@ AGE = [18, 45]
 
 VACCINE_CHOICE = 0  # Choose any Vaccine ( 0 -> COVAXIN, 1 -> COVISHIELD)
 
-AGE_CHOICE = 0  # Choose any Age ( 0 -> 18Age, 1 - 45Age )
+AGE_CHOICE = 0  # Choose any Age ( 0 -> 18Age, 1 -> 45Age )
 
 DOSE_CHOICE = 0  # Choose any Dose ( 0 -> 1st Dose, 1 -> 2nd Dose )
 
